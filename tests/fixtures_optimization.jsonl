@@ -1,0 +1,42 @@
+{"input": {"db_id": "poker_player", "question": "List the names of poker players ordered by the final tables made in ascending order."}, "run_id": "d982673b-b04e-4e4d-ac18-5a381051046b"}
+{"input": {"db_id": "cre_Doc_Template_Mgt", "question": "Count the number of documents that use the PPT template type."}, "run_id": "b9fa8c61-cb49-43d7-9b0a-2a35a9fcba35"}
+{"input": {"db_id": "world_1", "question": "What are the names of the countries that are in the continent of Europe and have a population of 80000?"}, "run_id": "290c9f7c-67ce-4f62-ade9-fce1e7287802"}
+{"input": {"db_id": "car_1", "question": "What is the model for the car with a weight smaller than the average?"}, "run_id": "fba2830e-cc23-416d-8cc2-2317e0eb7fd1"}
+{"input": {"db_id": "car_1", "question": "What is the number of car models created by the car maker American Motor Company?"}, "run_id": "4f49dbe8-9c85-4c2b-b8e1-6768127131f6"}
+{"input": {"db_id": "flight_2", "question": "Return the number of flights."}, "run_id": "01563a85-0e89-4db8-8d6c-02212c845a2d"}
+{"input": {"db_id": "world_1", "question": "What are the names of nations where both English and French are official languages?"}, "run_id": "ffdccce9-d820-4c02-b88d-d744d91a97d1"}
+{"input": {"db_id": "car_1", "question": "What is the average miles per gallon of all the cards with 4 cylinders?"}, "run_id": "a47228ef-f4f1-4df0-8244-b308b4611946"}
+{"input": {"db_id": "wta_1", "question": "Find the highest rank of losers in all matches."}, "run_id": "9e10e2ed-ccdb-4ebc-a7db-fe21922ede3d"}
+{"input": {"db_id": "pets_1", "question": "What are the different first names and ages of the students who do have pets?"}, "run_id": "69e28ab0-47f4-4b03-8677-eded7ee7447e"}
+{"input": {"db_id": "car_1", "question": "What are the ids and makers of all car makers that produce at least 2 models and make more than 3 cars?"}, "run_id": "9617f0d6-4ea6-4ba9-97ef-553da5659d97"}
+{"input": {"db_id": "wta_1", "question": "How many different loser names are there?"}, "run_id": "9d2b3d63-1a0f-450a-9fcd-35e51f1e87bd"}
+{"input": {"db_id": "museum_visit", "question": "How many museums were opened after 2013 or before 2008?"}, "run_id": "01546914-e7bb-42f6-a672-dcd38c573d14"}
+{"input": {"db_id": "pets_1", "question": "Find the average and maximum age for each type of pet."}, "run_id": "0d81a832-287d-4cab-af88-214c5611bf6f"}
+{"input": {"db_id": "flight_2", "question": "Which flight numbers correspond to United Airlines flights?"}, "run_id": "e42ffd01-f536-4a33-8cad-b856fb1a81c3"}
+{"input": {"db_id": "car_1", "question": "How many countries exist?"}, "run_id": "7b2aca2f-7761-47fb-9994-c5a1f0ce1c4f"}
+{"input": {"db_id": "student_transcripts_tracking", "question": "What is the average transcript date?"}, "run_id": "261a5468-5708-4f91-a7fb-221b68674166"}
+{"input": {"db_id": "wta_1", "question": "What are the first names and birth dates of players from the USA?"}, "run_id": "6fc7a41a-5589-4627-9722-31e930d02597"}
+{"input": {"db_id": "pets_1", "question": "What are the students' first names who have both cats and dogs as pets?"}, "run_id": "26455261-4e60-4536-8f7f-66c51a8d3c8b"}
+{"input": {"db_id": "orchestra", "question": "Please show the name of the conductor that has conducted orchestras founded after 2008."}, "run_id": "d238f84b-600b-4644-91f0-024ed33bfd1c"}
+{"input": {"db_id": "student_transcripts_tracking", "question": "List all the student details in reversed lexicographical order."}, "run_id": "55dc10aa-ea4d-47ae-920a-d53d747d6716"}
+{"input": {"db_id": "car_1", "question": "What is the number of cars with a horsepower greater than 150?"}, "run_id": "892ff339-4ba3-4fe7-98dc-a6408ad418e0"}
+{"input": {"db_id": "dog_kennels", "question": "Which professionals live in a city containing the substring 'West'? List his or her role, street, city and state."}, "run_id": "88d09e1f-c35b-42bd-8ac2-8ece40b95cc0"}
+{"input": {"db_id": "flight_2", "question": "Give the code of the airport with the least flights."}, "run_id": "f550d582-1140-4872-b448-476bad1717c8"}
+{"input": {"db_id": "tvshow", "question": "find the package option of the tv channel that do not have any cartoon directed by Ben Jones."}, "run_id": "1a4c75ef-5485-45a8-8a43-7da653a6d8a7"}
+{"input": {"db_id": "tvshow", "question": "What are the ids of all tv channels that have more than 2 TV channels?"}, "run_id": "5d2d744a-8fc1-47b8-9971-05399c316b05"}
+{"input": {"db_id": "tvshow", "question": "What is the country with the most number of TV Channels and how many does it have?"}, "run_id": "ecccf255-fa56-4644-a9b8-6dfb7ca1d76e"}
+{"input": {"db_id": "singer", "question": "What is the name of the singer who is worth the most?"}, "run_id": "3bc9818f-b79b-4e41-9c95-f847988fd861"}
+{"input": {"db_id": "pets_1", "question": "Find the id of students who do not have a cat pet."}, "run_id": "2e395bde-2e41-4818-8049-c9246efbdd2d"}
+{"input": {"db_id": "tvshow", "question": "What is the number of cartoones written by Joseph Kuhr?"}, "run_id": "a6ac073d-f451-4b21-b849-20a6a775bebf"}
+{"input": {"db_id": "tvshow", "question": "What is the content of TV Channel with serial name \"Sky Radio\"?"}, "run_id": "1737acfe-920d-46d0-9b59-87b502ad7d26"}
+{"input": {"db_id": "course_teach", "question": "What are the names of the teachers and how many courses do they teach?"}, "run_id": "02acebd4-4637-4fed-b6d6-dbbe9779bdb7"}
+{"input": {"db_id": "pets_1", "question": "List the maximum weight and type for each type of pet."}, "run_id": "c902e941-34af-4d96-b87a-0bfcbb5621cb"}
+{"input": {"db_id": "dog_kennels", "question": "What are each professional's first name and description of the treatment they have performed?"}, "run_id": "f4703df5-de3c-4882-b051-f8a0505e6ff0"}
+{"input": {"db_id": "flight_2", "question": "What is the airport code of the airport with the most flights?"}, "run_id": "91bc3e8a-c5bf-4a13-9ffd-30d020074f92"}
+{"input": {"db_id": "pets_1", "question": "Find the weight of the youngest dog."}, "run_id": "ac358a13-0fc7-47ea-8d8b-3f39213e0b91"}
+{"input": {"db_id": "student_transcripts_tracking", "question": "When was the last transcript released?"}, "run_id": "04a3e810-2d72-4773-93a4-c1729eee6cab"}
+{"input": {"db_id": "network_1", "question": "Return the grade that has the greatest number of high schoolers."}, "run_id": "e514be06-1657-4c6b-9146-79f1c2578f51"}
+{"input": {"db_id": "car_1", "question": "What is the average horsepower for all cars produced before 1980 ?"}, "run_id": "a69d7a64-41f3-4ed8-971a-7d0e33a3ca28"}
+{"input": {"db_id": "employee_hire_evaluation", "question": "Count the number of distinct store locations."}, "run_id": "2bc409b7-05ef-4fe1-9d9b-1e18d60fe051"}
+{"input": {"db_id": "wta_1", "question": "Find the total number of players."}, "run_id": "53d4517a-9d7c-45f6-9d68-07276d23ee02"}
+{"input": {"db_id": "car_1", "question": "How many car models were produced by the maker with full name American Motor Company?"}, "run_id": "921d8c8b-de34-4cce-8e8b-739d7bc1e43d"}
